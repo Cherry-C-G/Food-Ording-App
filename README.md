@@ -2,7 +2,7 @@
 Microservices in the .NET 8 using .NET API, Ocelot, .NET Identity, Entity Framework Core and clean architecture.  
 Build with e-commerce modules over Product, Shopping Cart, Ordering, Payment and Email microservices with SQL Server communicating over Azure Service Bus and using Ocelot API Gateway.  
 Developing microservices that Contain:  
-1.Product Microservice, 2.NET Identity Microservice, 3.Coupon Microservice, 4.Shopping Cart Microservice, 5.Order Microservice, 6.Email Microservice, 7.Payment Microservice, 8.Ocelot Gateway Project, 9.MVC Web Application  
+Product Microservice, NET Identity Microservice, Coupon Microservice, Shopping Cart Microservice, Order Microservice, Email Microservice, Payment Microservice, Ocelot Gateway Project, MVC Web Application  
 Implemented:  
 .NET Core Microservices  
 7 microservices using .NET 8  
