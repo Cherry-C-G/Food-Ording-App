@@ -1,0 +1,13 @@
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.csproj.AssemblyReference.cache
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.AssemblyInfoInputs.cache
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.AssemblyInfo.cs
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.sourcelink.json
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\bin\Debug\net8.0\Mango.MessageBus.deps.json
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\bin\Debug\net8.0\Mango.MessageBus.dll
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\bin\Debug\net8.0\Mango.MessageBus.pdb
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.dll
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\obj\Debug\net8.0\refint\Mango.MessageBus.dll
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\obj\Debug\net8.0\Mango.MessageBus.pdb
+C:\Beaconfire\Personal Project\Food Ordering App.NET\Personal Mango\Mango.MessageBus\obj\Debug\net8.0\ref\Mango.MessageBus.dll
